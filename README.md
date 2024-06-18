@@ -25,6 +25,8 @@ This guide is designed to help beginners get started in the field of cybersecuri
     - [Specialized Certifications](#specialized-certifications)
 10. [Career Paths in Cybersecurity](#career-paths-in-cybersecurity)
 11. [Additional Resources](#additional-resources)
+    - [Conferences](#conferences)
+    - [Training Programs](#training-programs)
 
 ## What is Cybersecurity? <a name="what-is-cybersecurity"></a>
 Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not best practice to leave you doors unlocked or the window open all the timne. Think of cybersecurity like locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials, finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa. Let's get to it.
@@ -80,7 +82,6 @@ Most of my self-study journey has been mostly online. The books that I've read w
 - [**CTFtime**](https://ctftime.org/)
 - [**Google CTF**](https://capturetheflag.withgoogle.com/)
 
-
 ## Starter Certifications <a name="certifications"></a>
 - **CompTIA Security+**
     - Inside Cloud and Security [(YT)](https://www.youtube.com/@InsideCloudAndSecurity) - [Sec+ Exam Study Playlist](https://www.youtube.com/watch?v=9Hd8QJmZQUc&list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns)
@@ -103,7 +104,13 @@ Most of my self-study journey has been mostly online. The books that I've read w
 A few of the most in-demand roles in Cyber are:
 
 ## Additional Resources <a name="additional-resources"></a>
-### Conferences
+### Conferences <a name="conferences"></a>
 - [**DefCon**](https://defcon.org/?mob=1)
 - [**BlackHat**](https://www.blackhat.com/)
+
+### Training Programs <a name="training-programs"></a>
+- The Knowledge House
+- SANS Training
+- Colorwave TRAC program
+- 
 
