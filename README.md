@@ -62,7 +62,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ## Communities and Forums <a name="communities-and-forums"></a>
 - **Reddit:** r/cybersecurity, r/netsec
-- **Discord:** Blacks in Cybersecurity, 
+- **Discord:** Blacks in Cybersecurity ([Website](https://www.blacksincyberconf.com/), [Discord Form](https://www.blacksincyberconf.com/online-community)) 
 
 ## Hands-On Practice <a name="hands-on-practice"></a>
 > "Applied Knowledge is Power"
@@ -73,9 +73,13 @@ Most of my self-study journey has been mostly online. The books that I've read w
 - [KC7 Cyber](https://kc7cyber.com/)
 
 ### Capture the Flag (CTF) Competitions <a name="capture-the-flag-ctf-competitions"></a>
-- **CTFtime**
+#### Training
+- [**CTFLearn**](https://ctflearn.com/)
 - [**PicoCTF**](https://www.picoctf.org/)
-- **Google CTF**
+#### Pure Comp
+- [**CTFtime**](https://ctftime.org/)
+- [**Google CTF**](https://capturetheflag.withgoogle.com/)
+
 
 ## Starter Certifications <a name="certifications"></a>
 - **CompTIA Security+**
