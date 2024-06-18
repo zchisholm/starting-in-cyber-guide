@@ -68,8 +68,9 @@ Most of my self-study journey has been mostly online. The books that I've read w
 > "Applied Knowledge is Power"
 
 ### Labs and Sandboxes <a name="labs-and-sandboxes"></a>
-- **TryHackMe**
-- **Hack The Box**
+- [**TryHackMe**](https://tryhackme.com/)
+- [**Hack The Box**](https://www.hackthebox.com/)
+- [KC7 Cyber](https://kc7cyber.com/)
 
 ### Capture the Flag (CTF) Competitions <a name="capture-the-flag-ctf-competitions"></a>
 - **CTFtime**
@@ -78,6 +79,8 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ## Starter Certifications <a name="certifications"></a>
 - **CompTIA Security+**
+    - Inside Cloud and Security [(YT)](https://www.youtube.com/@InsideCloudAndSecurity) - [Sec+ Exam Study Playlist](https://www.youtube.com/watch?v=9Hd8QJmZQUc&list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns)
+    - Professor Messer [(YT)](https://www.youtube.com/@professormesser) - [Sec+ Exam Study Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 - **ISC2 Certificate in Cybersecurity**
 - **AWS Certificate in Cybersecurity**
 - **Azure Fundamentals (AZ-900)**
