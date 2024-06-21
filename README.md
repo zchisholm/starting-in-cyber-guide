@@ -110,8 +110,8 @@ A few of the most in-demand roles in Cyber are:
 - [**BlackHat**](https://www.blackhat.com/)
 
 ### Training Programs <a name="training-programs"></a>
-- The Knowledge House (Cyber Track)
-- SANS Training Scholarship Program
-- Colorwave TRAC program
-- Global RNSC Academy
+- [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/)
+- [**SANS Cyber Academy (Scholarships)**](https://www.sans.org/cyber-academy/)
+- [**Colorwave (TRAC program)**](https://www.thecolorwave.org/programs)
+- [**Global RNSC Academy**](https://www.globalrnsc.org/)
 
