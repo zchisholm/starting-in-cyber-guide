@@ -1,6 +1,6 @@
 # A Beginner's Self-Study Guide to Learning Cybersecurity
 > Author: Z
-In-Progress...
+**In-Progress...**
 
 ## Purpose
 This guide is designed to help beginners get started in the field of cybersecurity by providing a comprehensive list of resources. It also includes advanced sections for those looking to deepen their knowledge.
@@ -50,6 +50,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ### Websites <a name="websites"></a>
 - **Cybrary:** Free cybersecurity training.
+- **Cybr:** Free cybersecurity training.
 - **Khan Academy:** Basic computer science principles.
 
 ## Podcasts <a name="podcasts"></a>
@@ -109,8 +110,8 @@ A few of the most in-demand roles in Cyber are:
 - [**BlackHat**](https://www.blackhat.com/)
 
 ### Training Programs <a name="training-programs"></a>
-- The Knowledge House
-- SANS Training
+- The Knowledge House (Cyber Track)
+- SANS Training Scholarship Program
 - Colorwave TRAC program
-- 
+- Global RNSC Academy
 
