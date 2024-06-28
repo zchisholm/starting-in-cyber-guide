@@ -32,6 +32,8 @@ I've been on my journey in Cybersecurity for a little while now and I just wante
 ## What is Cybersecurity? <a name="what-is-cybersecurity"></a>
 Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not best practice to leave you doors unlocked or the window open all the timne. Think of cybersecurity like locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials, finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa. Let's get to it.
 
+- [Video Explanation for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
+
 ## Getting Started <a name="getting-started"></a>
 This section is all about where to get the information. We all heard the phrase knowledge is power. The phrase should have been "[Applied] knowledge is power." Below you'll find content to help you get the fundamentals under your belt, and later on you'll learn how and where to apply it.
 
@@ -41,28 +43,30 @@ This section is all about where to get the information. We all heard the phrase 
   - [Google Certificate in Cyber (Fundamentals)](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - **Udemy:** Udemy courses can be great to, but try to avoid the junk out there. Here are some courses I reccomend from Udemy if you are interested in the Cloud.
   - [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=ST19MT61724)
-      - The AWS CCP is an entry level Cloud certificate.
-  - Azure AZ-900
+      - The AWS (Amazonn Web Services) CCP is an entry level AWS Cloud certificate.
+  - [Azure AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+      - The AZ-900 is an entry level Azure Cloud Certificate
+
+### Websites <a name="websites"></a>
+- **Cybrary:** Free cybersecurity training.
+- **Cybr:** Free cybersecurity training.
+- **Youtube University:** You can search any topic of interest and find something.
+
+## Staying Up to Date with Attacks <a name="staying-up-to-date"></a>
+### Podcasts <a name="podcasts"></a>
+- [**Darknet Diaries**](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=93d403a928e547e3)
+- [**Unsupervised Learning**](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ?si=a4f1a792f50e49b1)
+- **Cyber Security News Bytes**
+
+### YouTube Channels <a name="youtube-channels"></a>
+- [**David Bombal**](https://www.youtube.com/@davidbombal)
+- [**The PC Security Channel**](https://www.youtube.com/@pcsecuritychannel)
+- [**Hak5**](https://www.youtube.com/@hak5): a great resource to keep up with weekly cyber news videos.
 
 ### Books <a name="books"></a>
 Most of my self-study journey has been mostly online. The books that I've read were more stories from the cyber world. 
 - [**"This is How They Tell Me the World Ends" by Nicole Perloth**](https://a.co/d/gmjp23E)
 - [**"Dark Wire" by Joseph Cox**](https://a.co/d/2Ky7Hcw)
-
-### Websites <a name="websites"></a>
-- **Cybrary:** Free cybersecurity training.
-- **Cybr:** Free cybersecurity training.
-- **Khan Academy:** Basic computer science principles.
-
-## Podcasts <a name="podcasts"></a>
-- [**Darknet Diaries**](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=93d403a928e547e3)
-- [**Unsupervised Learning**](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ?si=a4f1a792f50e49b1)
-- **Cyber Security News Bytes**
-
-## YouTube Channels <a name="youtube-channels"></a>
-- [**David Bombal**](https://www.youtube.com/@davidbombal)
-- [**The PC Security Channel**](https://www.youtube.com/@pcsecuritychannel)
-- [**Hak5**](https://www.youtube.com/@hak5): a great resource to keep up with weekly cyber news videos. 
 
 ## Communities and Forums <a name="communities-and-forums"></a>
 - **Reddit:** r/cybersecurity, r/netsec
@@ -75,6 +79,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 - [**TryHackMe**](https://tryhackme.com/)
 - [**Hack The Box**](https://www.hackthebox.com/)
 - [KC7 Cyber](https://kc7cyber.com/)
+- [AWS Educate](https://aws.amazon.com/education/awseducate/)
 
 ### Capture the Flag (CTF) Competitions <a name="capture-the-flag-ctf-competitions"></a>
 #### Training
@@ -85,12 +90,14 @@ Most of my self-study journey has been mostly online. The books that I've read w
 - [**Google CTF**](https://capturetheflag.withgoogle.com/)
 
 ## Starter Certifications <a name="certifications"></a>
-- **CompTIA Security+**
+- **CompTIA Security+** [ [Learn More](https://www.comptia.org/certifications/security) ]
     - Inside Cloud and Security [(YT)](https://www.youtube.com/@InsideCloudAndSecurity) - [Sec+ Exam Study Playlist](https://www.youtube.com/watch?v=9Hd8QJmZQUc&list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns)
     - Professor Messer [(YT)](https://www.youtube.com/@professormesser) - [Sec+ Exam Study Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 - **ISC2 Certificate in Cybersecurity**
 - **AWS Certificate in Cybersecurity**
-- **Azure Fundamentals (AZ-900)**
+    - [AWS Educate](https://aws.amazon.com/education/awseducate/): Free labs and hands-on training material from AWS.
+- **Azure Fundamentals (AZ-900)** [ [Learn More](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) ]
+    - Microsoft self-paced training - [course](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ## Advanced Topics <a name="advanced-topics"></a>
 ### Advanced Courses <a name="advanced-courses"></a>
