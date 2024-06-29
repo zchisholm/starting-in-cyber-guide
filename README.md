@@ -32,12 +32,12 @@ I will continue to update as I learn and look forward to any new resources you m
     - [Training Programs](#training-programs)
 
 ## What is Cybersecurity? <a name="what-is-cybersecurity"></a>
-Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not best practice to leave you doors unlocked or the window open all the timne. Think of cybersecurity like locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials, finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa. Let's get to it.
+Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not a good idea (best practice) to leave your doors unlocked or the window open all the time. Think of one level of cybersecurity as locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials and finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa can help by not opening an email from a Nigerian Prince. Let's get to it.
 
-- [Video Explanation for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
+- [Video Explanation on Cybersecurity for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
 
 ## Getting Started <a name="getting-started"></a>
-This section is all about where to get the information. We all heard the phrase knowledge is power. The phrase should have been "[Applied] knowledge is power." Below you'll find content to help you get the fundamentals under your belt, and later on, you'll learn how and where to apply it.
+This section is all about where to get the information. We have all heard the phrase knowledge is power. The phrase should have been "[Applied] knowledge is power." Below you'll find content to help you get the fundamentals under your belt, and later on, you'll learn how and where to apply it.
 
 ## Learning the Basics <a name="learning-the-basics"></a>
 ### Online Courses <a name="online-courses"></a>
