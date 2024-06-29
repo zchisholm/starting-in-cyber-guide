@@ -119,6 +119,7 @@ A few of the most in-demand roles in Cyber are:
 ### Conferences <a name="conferences"></a>
 - [**DefCon**](https://defcon.org/?mob=1)
 - [**BlackHat**](https://www.blackhat.com/)
+- [**Cybersecurity Summit**](https://cybersecuritysummit.com/)
 
 ### Training Programs <a name="training-programs"></a>
 - [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/)
