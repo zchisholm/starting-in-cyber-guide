@@ -114,6 +114,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ## Career Paths in Cybersecurity <a name="career-paths-in-cybersecurity"></a>
 A few of the most in-demand roles in Cyber are:
+* In progress will likely put information on the top 5.
 
 ## Additional Resources <a name="additional-resources"></a>
 ### Conferences <a name="conferences"></a>
