@@ -76,7 +76,9 @@ Most of my self-study journey has been mostly online. The books that I've read w
 ## Communities and Forums <a name="communities-and-forums"></a>
 - **Reddit:** [r/cybersecurity](https://www.reddit.com/r/cybersecurity/), r/netsec
 - **Discord:**
-    - Blacks in Cybersecurity ([Website](https://www.blacksincyberconf.com/), [Discord Form](https://www.blacksincyberconf.com/online-community)) 
+    - Blacks in Cybersecurity ([Website](https://www.blacksincyberconf.com/), [Discord Form](https://www.blacksincyberconf.com/online-community))
+    - KC7 Cyber ([Website](https://kc7cyber.com/), [Discord Invite](https://kc7cyber.com/community))
+    - The Safer Internet Project ([Website](https://learn.saferinternetproject.com/), [Discord Invite](https://discord.gg/UjJMEpukHe), [YT](https://www.youtube.com/@dccybersec))
 
 ## Hands-On Practice <a name="hands-on-practice"></a>
 > "Applied Knowledge is Power"
@@ -115,6 +117,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ### Specialized Certifications <a name="specialized-certifications"></a>
 - [**Certified Information Systems Security Professional (CISSP)**](https://www.isc2.org/Certifications/CISSP)
+    - FRSecure CISSP Mentor Program
 - [**Offensive Security Certified Professional (OSCP)**](https://www.offsec.com/courses/pen-200/)
 - [**Certified Information Security Manager (CISM)**](https://www.isaca.org/credentialing/cism)
 
