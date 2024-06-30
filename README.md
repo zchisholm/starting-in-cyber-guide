@@ -36,7 +36,7 @@ I will continue to update as I learn and look forward to any new resources you m
 Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not a good idea (best practice) to leave your doors unlocked or the window open all the time. Think of one level of cybersecurity as locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials and finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa can help by not opening an email from a Nigerian Prince. Let's get to it.
 
 - [Video Explanation on Cybersecurity for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0) <br>
-[<img src="https://img.youtube.com/vi/bPVaOlJ6ln0/hqdefault.jpg" width="500"
+[<img src="https://img.youtube.com/vi/bPVaOlJ6ln0/hqdefault.jpg" width="450"
 />](https://www.youtube.com/embed/bPVaOlJ6ln0)
 
 ## Getting Started <a name="getting-started"></a>
