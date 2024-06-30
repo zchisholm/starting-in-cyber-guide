@@ -22,6 +22,7 @@ I will continue to update as I learn and look forward to any new resources you m
 6. [Hands-On Practice](#hands-on-practice)
     - [Labs and Sandboxes](#labs-and-sandboxes)
     - [Capture the Flag (CTF) Competitions](#capture-the-flag-ctf-competitions)
+    - [Project Ideas](#project-ideas)
 7. [Starter Certifications](#starter-certifications)
 8. [Advanced Topics](#advanced-topics)
     - [Advanced Courses](#advanced-courses)
@@ -34,7 +35,9 @@ I will continue to update as I learn and look forward to any new resources you m
 ## What is Cybersecurity? <a name="what-is-cybersecurity"></a>
 Cybersecurity is all about keeping our digital world safe and sound. When you go home it's not a good idea (best practice) to leave your doors unlocked or the window open all the time. Think of one level of cybersecurity as locking the doors and windows and hiring a security guard for your online life, protecting your data, devices, and networks from shady people. Whether it’s securing your socials and finances, or defending against cyberattacks, cybersecurity is absolutely necessary these days. Everyone can play a part in making the internet safer. Even Grandma and Grandpa can help by not opening an email from a Nigerian Prince. Let's get to it.
 
-- [Video Explanation on Cybersecurity for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
+- [Video Explanation on Cybersecurity for the visual learners!](https://www.youtube.com/watch?v=bPVaOlJ6ln0) <br>
+[<img src="https://img.youtube.com/vi/bPVaOlJ6ln0/hqdefault.jpg" width="500"
+/>](https://www.youtube.com/embed/bPVaOlJ6ln0)
 
 ## Getting Started <a name="getting-started"></a>
 This section is all about where to get the information. We have all heard the phrase knowledge is power. The phrase should have been "[Applied] knowledge is power." Below you'll find content to help you get the fundamentals under your belt, and later on, you'll learn how and where to apply it.
@@ -91,6 +94,8 @@ Most of my self-study journey has been mostly online. The books that I've read w
 #### Pure Comp
 - [**CTFtime**](https://ctftime.org/)
 - [**Google CTF**](https://capturetheflag.withgoogle.com/)
+
+### Project Ideas <a name="project-ideas"></a>
 
 ## Starter Certifications <a name="starter-certifications"></a>
 - [**CompTIA Security+**](https://www.comptia.org/certifications/security)
