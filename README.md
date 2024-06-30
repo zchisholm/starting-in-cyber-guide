@@ -105,8 +105,9 @@ Most of my self-study journey has been mostly online. The books that I've read w
     - Free training and exam voucher - [One Million in Cyber Initiative](https://www.isc2.org/Landing/1MCC) 
 - [**AWS Certificate in Cybersecurity**](https://aws.amazon.com/certification/certified-cloud-practitioner/)
     - [AWS Educate](https://aws.amazon.com/education/awseducate/): Free labs and hands-on training material from AWS.
-- **Azure Fundamentals (AZ-900)** [ [Learn More](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) ]
-    - Microsoft self-paced training - [course](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+    - [AWS Certified Cloud Practitioner Udemy Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=ST19MT61724)
+- [**Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) ]
+    - [Microsoft self-paced training course](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ## Advanced Topics <a name="advanced-topics"></a>
 ### Advanced Courses <a name="advanced-courses"></a>
