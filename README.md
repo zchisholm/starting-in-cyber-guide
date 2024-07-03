@@ -118,7 +118,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ### Specialized Certifications <a name="specialized-certifications"></a>
 - [**Certified Information Systems Security Professional (CISSP)**](https://www.isc2.org/Certifications/CISSP)
-    - FRSecure CISSP Mentor Program
+    - [FRSecure CISSP Mentor Program](https://frsecure.com/cissp-mentor-program/)
 - [**Offensive Security Certified Professional (OSCP)**](https://www.offsec.com/courses/pen-200/)
 - [**Certified Information Security Manager (CISM)**](https://www.isaca.org/credentialing/cism)
 
