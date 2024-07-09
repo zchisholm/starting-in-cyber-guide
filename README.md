@@ -99,6 +99,7 @@ Most of my self-study journey has been mostly online. The books that I've read w
 
 ### Project Ideas <a name="project-ideas"></a>
 - [Grant Collins - 3 Projects/Solid Advice](https://www.youtube.com/watch?v=045XS4jlhcw)
+- [Building a SOC in AWS - Nicole Enesse](https://www.youtube.com/watch?v=cwhvndEfuRw)
 
 ## Starter Certifications <a name="starter-certifications"></a>
 - [**CompTIA Security+**](https://www.comptia.org/certifications/security)
