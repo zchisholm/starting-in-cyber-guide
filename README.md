@@ -126,6 +126,12 @@ Most of my self-study journey has been mostly online. The books that I've read w
 ## Career Paths in Cybersecurity <a name="career-paths-in-cybersecurity"></a>
 A few of the most in-demand roles in Cyber are:
 * In progress will likely put information on the top 5.
+- Cybersecurity Engineer
+- Security Analyst
+- Security Architect
+- Secure Software Dev
+- PenTester/Ethical Hacker
+    - [Web Applications Security Fundamentals - YT](https://youtu.be/DgH6z6xYgNo?si=JF0ils684MiyANmj)
 
 ## Additional Resources <a name="additional-resources"></a>
 ### Conferences <a name="conferences"></a>
