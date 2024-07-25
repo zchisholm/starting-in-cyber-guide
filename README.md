@@ -84,10 +84,11 @@ Most of my self-study journey has been mostly online. The books that I've read w
 > "Applied Knowledge is Power"
 
 ### Labs and Sandboxes <a name="labs-and-sandboxes"></a>
-- [**TryHackMe**](https://tryhackme.com/)
-- [**Hack The Box**](https://www.hackthebox.com/)
-- [KC7 Cyber](https://kc7cyber.com/)
-- [AWS Educate](https://aws.amazon.com/education/awseducate/)
+- [**TryHackMe**](https://tryhackme.com/) - Education and Cyber VM Labs
+- [**Hack The Box**](https://www.hackthebox.com/) - Cyber VM Labs
+- [KC7 Cyber](https://kc7cyber.com/) - Blue Team Cybersecurity Labs/Games
+- [AWS Educate](https://aws.amazon.com/education/awseducate/) - AWS Labs
+- [Labtrikz](https://labtrikz.com/) - Cloud Labs Azure and AWS
 
 ### Capture the Flag (CTF) Competitions <a name="capture-the-flag-ctf-competitions"></a>
 #### Training
