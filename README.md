@@ -17,6 +17,7 @@ I will continue to update as I learn and look forward to any new resources you m
 4. [Staying Up to Date with Attacks](#staying-up-to-date)
     - [Podcasts](#podcasts)
     - [YouTube Channels](#youtube-channels)
+    - [Professional Blogs](https://samcurry.net/)
     - [Books](#books)
 5. [Communities and Forums](#communities-and-forums)
 6. [Hands-On Practice](#hands-on-practice)
@@ -68,6 +69,9 @@ This section is all about where to get the information. We have all heard the ph
 - [Low Level Learning](https://www.youtube.com/watch?v=TFolQUeWoog)
 - [**The PC Security Channel**](https://www.youtube.com/@pcsecuritychannel)
 - [**Hak5**](https://www.youtube.com/@hak5): a great resource to keep up with weekly cyber news videos.
+
+### Professional Blogs <a name="blogs"><a/>
+- [Sam Curry](https://samcurry.net/)
 
 ### Books <a name="books"></a>
 Most of my self-study journey has been mostly online. The books that I've read were more stories from the cyber world. 
