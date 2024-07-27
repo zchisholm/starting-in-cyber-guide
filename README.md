@@ -3,7 +3,7 @@
 
 ## Purpose
 This guide is designed to help beginners get started in the field of cybersecurity by providing a comprehensive list of resources. It also includes advanced sections for those looking to deepen their knowledge.
-I've been on my journey in Cybersecurity for a little while now and I just wanted a space to share resources that I found the most helpful. If you find this helpful, please pay it forward, star it, and share it with others.
+I've been on my journey in Cybersecurity for a little while now and I just wanted a space to share resources that I found the most helpful. My hope for you is that you find something here helpful for your journey. If you find this helpful, please pay it forward, star it, and share it with others.
 
 I will continue to update as I learn and look forward to any new resources you may share. 
 
