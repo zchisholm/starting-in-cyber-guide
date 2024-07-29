@@ -67,6 +67,7 @@ This section is all about where to get the information. We have all heard the ph
 
 ### YouTube Channels <a name="youtube-channels"></a>
 - [**David Bombal**](https://www.youtube.com/@davidbombal)
+- [**CyberNews**](https://www.youtube.com/@cybernews)
 - [**Low Level Learning**](https://www.youtube.com/watch?v=TFolQUeWoog)
 - [**The PC Security Channel**](https://www.youtube.com/@pcsecuritychannel)
 - [**Hak5**](https://www.youtube.com/@hak5): a great resource to keep up with weekly cyber news videos.
