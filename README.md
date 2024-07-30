@@ -143,6 +143,7 @@ A few of the most in-demand roles in Cyber are:
 
 ## Additional Resources <a name="additional-resources"></a>
 ### Conferences <a name="conferences"></a>
+- [**Data Connectors**](https://dataconnectors.com/) - typically more affordable with many free conference discount codes. They host cybersecurity conferences all over the country.
 - [**DefCon**](https://defcon.org/?mob=1)
 - [**BlackHat**](https://www.blackhat.com/)
 - [**Cybersecurity Summit**](https://cybersecuritysummit.com/)
