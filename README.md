@@ -135,6 +135,8 @@ Most of my self-study journey has been mostly online. The books that I've read w
 A few of the most in-demand roles in Cyber are:
 * In progress will likely put information on the top 5.
 - Cybersecurity Engineer
+    - [What is a Cybersecurity Engineer?](https://github.com/user-attachments/assets/a28aa31b-bc72-4377-90ab-8bdc21baa174)
+
 - Security Analyst
 - Security Architect
 - Secure Software Dev
