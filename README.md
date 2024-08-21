@@ -61,9 +61,9 @@ This section is all about where to get the information. We have all heard the ph
 
 ## Staying Up to Date with Attacks <a name="staying-up-to-date"></a>
 ### Podcasts <a name="podcasts"></a>
-- [**Darknet Diaries**](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=93d403a928e547e3)
-- [**Unsupervised Learning**](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ?si=a4f1a792f50e49b1)
-- **Cyber Security News Bytes**
+- [**Darknet Diaries**](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=93d403a928e547e3) - Stories from the darkweb and hacker culture
+- [**Unsupervised Learning**](https://open.spotify.com/show/0cIzWAEYacLz7Ag1n1YhUJ?si=a4f1a792f50e49b1) - AI/Cyber focused podcast
+- [**Simply Cyber**](https://open.spotify.com/show/4cIPSwHmDVMAGd2UsFAvyl?si=6f2ff5e2f36d49cf) - Latest News in Cyber and Interviews
 
 ### YouTube Channels <a name="youtube-channels"></a>
 - [**David Bombal**](https://www.youtube.com/@davidbombal)
