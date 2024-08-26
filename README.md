@@ -44,6 +44,10 @@ Cybersecurity is all about keeping our digital world safe and sound. When you go
 This section is all about where to get the information. We have all heard the phrase knowledge is power. The phrase should have been "[Applied] knowledge is power." Below you'll find content to help you get the fundamentals under your belt, and later on, you'll learn how and where to apply it.
 
 ## Learning the Basics <a name="learning-the-basics"></a>
+First and foremost, you need to have a basic understanding of how the internet works. You can protect what you don't understand. Here is a great video to get you started. I encourage you to look up others and try to get a solid feel for howt the internet works. If there is a word or term in the video that doesn't make sense... Google it. You have all the knowledge of the world at your fingertips.
+
+- [**How The Internet Works ByteByteGo**](https://www.youtube.com/watch?v=sMHzfigUxz4)
+
 ### Online Courses <a name="online-courses"></a>
 - **Coursera:** Was a great starting place for me and I always recommend it. Especially if you are a self-learner the structure provided by the Google Certificate in Cyber course is a great place to get your feet wet. Here are a few cyber-related courses I recommend from the platform.
   - [Google Certificate in Cyber (Fundamentals)](https://www.coursera.org/professional-certificates/google-cybersecurity)
