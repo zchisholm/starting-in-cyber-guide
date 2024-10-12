@@ -155,10 +155,10 @@ A few of the most in-demand roles in Cyber are:
 - [**BlackHat**](https://www.blackhat.com/)
 - [**Cybersecurity Summit**](https://cybersecuritysummit.com/)
 
-### Training Programs <a name="training-programs"></a>
-- [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/)
+### Fellowships and Cohort Programs (Free)<a name="training-programs"></a>
+- [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/): Jumpstart your career in Cyber, UX/UI, Project Management, Web Dev, and Data Science in a 12-month long bootcamp.
 - [**SANS Cyber Academy (Scholarships)**](https://www.sans.org/cyber-academy/)
-- [**Colorwave (TRAC program)**](https://www.thecolorwave.org/programs)
-- [**Global RNSC Academy**](https://www.globalrnsc.org/)
-- [**Headstarter - AI Code Fellowship**](https://headstarter.co/)
-- [**Program Earth**](https://www.programearth.org/home-pages/fellows)
+- [**Colorwave (TRAC program)**](https://www.thecolorwave.org/programs): Learn about the venture capital and startup space through, networking opportunities, mentorship, and community.
+- [**Global RNSC Academy**](https://www.globalrnsc.org/): Learn the fundamentals of cybersecurity, sales engineering, and gerneral life skills in a growth focused environment where everyone is striving. 
+- [**Headstarter - AI Code Fellowship**](https://headstarter.co/): Accerlate your journey to AI engineering and become a skilled developer by building AI applications in a team with mentors and engineers from all over.
+- [**Program Earth/Equity**](https://www.programearth.org/home-pages/fellows): Learn by doing. Help contribute to Open Source projects in a safe learning space with mentors.
