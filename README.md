@@ -156,9 +156,11 @@ A few of the most in-demand roles in Cyber are:
 - [**Cybersecurity Summit**](https://cybersecuritysummit.com/)
 
 ### Fellowships and Cohort Programs (Free)<a name="training-programs"></a>
-- [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/): Jumpstart your career in Cyber, UX/UI, Project Management, Web Dev, and Data Science in a 12-month long bootcamp.
-- [**SANS Cyber Academy (Scholarships)**](https://www.sans.org/cyber-academy/)
-- [**Colorwave (TRAC program)**](https://www.thecolorwave.org/programs): Learn about the venture capital and startup space through, networking opportunities, mentorship, and community.
-- [**Global RNSC Academy**](https://www.globalrnsc.org/): Learn the fundamentals of cybersecurity, sales engineering, and gerneral life skills in a growth focused environment where everyone is striving. 
-- [**Headstarter - AI Code Fellowship**](https://headstarter.co/): Accerlate your journey to AI engineering and become a skilled developer by building AI applications in a team with mentors and engineers from all over.
-- [**Program Earth/Equity**](https://www.programearth.org/home-pages/fellows): Learn by doing. Help contribute to Open Source projects in a safe learning space with mentors.
+| **Fellowship/Cohort Program**                      | **Description**                                                                                                                                                                 |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**The Knowledge House (Innovation Fellowship)**](https://www.theknowledgehouse.org/innovation_fellowship/)    | Jumpstart your career in Cyber, UX/UI, Project Management, Web Dev, and Data Science in a 12-month long bootcamp.                                                                 |
+| [**SANS Cyber Academy (Scholarships)**](https://www.sans.org/cyber-academy/)              | Offers scholarships for those pursuing cybersecurity careers through intensive training programs.                                                                                 |
+| [**Colorwave (TRAC program)**](https://www.thecolorwave.org/programs)                       | Learn about venture capital and the startup space through networking opportunities, mentorship, and community.                                                                    |
+| [**Global RNSC Academy**](https://www.globalrnsc.org/)                            | Learn the fundamentals of cybersecurity, sales engineering, and general life skills in a growth-focused environment.                                                              |
+| [**Headstarter - AI Code Fellowship**](https://headstarter.co/)               | Accelerate your journey to AI engineering by building AI applications in teams with mentors and engineers from all over.                                                          |
+| [**Program Earth/Equity**](https://www.programearth.org/home-pages/fellows)                           | Learn by contributing to Open Source projects in a safe learning space with mentors.                                                                                              |
