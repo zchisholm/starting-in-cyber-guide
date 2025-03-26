@@ -71,6 +71,7 @@ First and foremost, you need to have a basic understanding of how the internet w
 - [**Simply Cyber**](https://open.spotify.com/show/4cIPSwHmDVMAGd2UsFAvyl?si=6f2ff5e2f36d49cf) - Latest News in Cyber and Interviews
 
 ### YouTube Channels <a name="youtube-channels"></a>
+- [**Tech w Jono**](https://www.youtube.com/@TechwithJono)
 - [**David Bombal**](https://www.youtube.com/@davidbombal)
 - [**CyberNews**](https://www.youtube.com/@cybernews)
 - [**Low Level Learning**](https://www.youtube.com/watch?v=TFolQUeWoog)
